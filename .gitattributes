@@ -3,3 +3,4 @@
 *.html linguist-detectable=true
 *.xml linguist-detectable=true
 *.jsx linguist-detectable=true
+frontend/ linguist-detectable=false
